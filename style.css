@@ -23,7 +23,7 @@ button:focus {
 
 header {
   background-image: url('/lyrics.jpg');
-  background-color: teal;
+  background-color: rgb(146, 146, 137);
   background-size: cover;
   background-position: center center;
   color: rgb(255, 255, 255);
